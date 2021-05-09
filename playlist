@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AghapyTVliveqnGby.eg" tvg-name="Aghapy TV live قناة أغابي" tvg-country="EG" tvg-language="" tvg-logo="" group-title="Egypt",Aghapy TV live قناة أغابي
+http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/03/640x_90862abc414292fe65eebd19dd67577f1dbad18a9ce9676523d0bf35aab6896e-scaled.jpg" 
 group-title="نجيب زاهي زركش,"نجيب زاهي زركش | E25
 https://files49.arabseed.me/d/gmqcch5qfsrnuwfu7v6ilyhovmirvxi3vqsz5sijpn32wt6tytcsmstv3347vvhiubkh7rou/[arabseed].Nagib.Zahi.Zarkash.Ep25.1080p.mp4
