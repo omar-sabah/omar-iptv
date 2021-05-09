@@ -1,17 +1,16 @@
 #EXTM3U
 #PLAYLIST
-#EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان 2021",نسل الاغراب E25
+#EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="نجيب زاهي زركش",نسل الاغراب E25
 https://files49.arabseed.me/d/gmqcch5qfsrnuwfu7v6ilyhovmirvxi3vqsz5sijpn32wt6tytcsmstv3347vvhiubkh7rou/[arabseed].Nagib.Zahi.Zarkash.Ep25.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E26" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان 2021",نسل الاغراب E26
+#EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E26" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="نجيب زاهي زركش",نسل الاغراب E26
 https://files38.arabseed.me/d/hyqouh5qfsrnuwfu7v6i34v5uxqzp4brtbbpf4zufp4pnpjcmkuevygxl4plblgq5dvi3omv/[arabseed].Nagib.Zahi.Zarkash.Ep26.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="نجيب زاهي زركش | E27" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان 2021",نسل الاغراب E27
-"coming soon.."
 
-#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان 2021",نسل الاغراب S01 E25
+
+#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" title="رمضان  2021" ,نسل الاغراب E25
 https://files38.arabseed.me/d/hyqa4h5qfsrnuwfu7v6ilo5ru7dsbpzfoxp5wcqyrfxlc3aosvflf6n7rfd4fmdpf7t23hmw/[arabseed].Nasl.El.Aghrab.Ep25.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E26" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان  2021" ,نسل الاغراب S01 E26
+#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E26" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان  2021" ,نسل الاغراب E26
 https://files50.arabseed.me/d/juqnkh5qfsrnuwfu7v6ixz7cuxusw2h32fprig4cjkj5tfoub2uxjnyrroejczv5kmqjsyd7/[arabseed].Nasl.El.Aghrab.Ep26.1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E27" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" group-title="رمضان 2021",نسل الاغراب S01 E27
+#EXTINF:-1 tvg-id="" tvg-name="نسل الاغراب | E27" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/04/315x420_1efbfac10e815a45ab41159d86232320ff05d581e0aa99a4d0f41538741357fe.jpg" title="رمضان  2021" ,نسل الاغراب E27
 "coming soon.."
 
 #EXTINF:-1 tvg-id="" tvg-name="اللي ملوش كبير | E25" tvg-logo="https://www.akoam.io/wp-content/uploads/2021/03/640x_6140f44963cad2b1107ff4dbbeecb1693a5f443e7b942c3ad767f09769c22fc0.jpg" group-title="رمضان 2021",اللي ملوش كبير | E25
