@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="English-Movies" tvg-logo="" group-title="English-Movies",English-Movies
 #EXTINF:-1 tvg-id="" tvg-name="US-Movies" tvg-logo="" group-title="English-Movies",US-Movies
 #EXTINF:-1 tvg-id="" tvg-name="Movie1" tvg-logo="" group-title="US-Movies",Movie1
-https://s315d1.akwam.link/download/1621771774/60a8f47e4ca02/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4 
+https://s315d1.akwam.link/download/1621771610/60a8f3da54e80/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Movie2" tvg-logo="" group-title="US-Movies",Movie2
-wget --no-check-certificate https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+https://s315d1.akwam.link/download/1621771774/60a8f47e4ca02/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4 
 
 #EXTINF:-1 tvg-id="" tvg-name="Alhurra" tvg-logo="https://play-lh.googleusercontent.com/Bvr3qLhwFNZ2ddJyPSSzDJX0uZwbtRHPXYkWljUR45jafpOp88olIRKPkOz1f4bD_HI" group-title="News",
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
