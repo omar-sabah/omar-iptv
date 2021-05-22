@@ -1,6 +1,7 @@
 #EXTM3U
 #PLAYLIST
-#EXTINF:-1 tvg-id="" tvg-name="English-Movies" tvg-logo="" group-title="English-Movies",English-Movies
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2;Group3",Channel 4
+https://s315d1.akwam.link/download/1621771610/60a8f3da54e80/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4
 #EXTINF:-1 tvg-id="" tvg-name="US-Movies" tvg-logo="" group-title="English-Movies",US-Movies
 #EXTINF:-1 tvg-id="" tvg-name="Movie1" tvg-logo="" group-title="US-Movies",Movie1
 https://s315d1.akwam.link/download/1621771610/60a8f3da54e80/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4
