@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="English-Movies" tvg-logo="" group-title="English-Movies",English-Movies
 #EXTINF:-1 tvg-id="" tvg-name="US-Movies" tvg-logo="" group-title="English-Movies",US-Movies
 #EXTINF:-1 tvg-id="" tvg-name="Movie1" tvg-logo="" group-title="US-Movies",Movie1
-wget --no-check-certificate https://s315d1.akwam.link/download/1621771774/60a8f47e4ca02/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4
+wget "https://s315d1.akwam.link/download/1621771774/60a8f47e4ca02/Family.Guy.S19E01.720p.WEB-DL.akwam.net.mp4" --no-check-certificate
 #EXTINF:-1 tvg-id="" tvg-name="Movie2" tvg-logo="" group-title="US-Movies",Movie2
 wget --no-check-certificate https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 
