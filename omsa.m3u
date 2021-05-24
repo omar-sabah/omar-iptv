@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,ARABIC-MOVIES
+https://raw.githubusercontent.com/omsa79/omar-iptv/main/arabic-movies.m3u
+#EXTINF:-1,ENGLISH-SERIES
+https://raw.githubusercontent.com/omsa79/omar-iptv/main/english-series.m3u
