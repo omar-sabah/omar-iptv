@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ARABIC-MOVIES
+#EXTINF:-1 tvg-id="ARABIC-MOVIES" tvg-name="" tvg-logo="" group-title="",ARABIC-MOVIES
 https://raw.githubusercontent.com/omsa79/omar-iptv/main/arabic-movies.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ENGLISH-SERIES
+#EXTINF:-1 tvg-id="ENGLISH-SERIES" tvg-name="" tvg-logo="" group-title="",ENGLISH-SERIES
 https://raw.githubusercontent.com/omsa79/omar-iptv/main/english-series.m3u
